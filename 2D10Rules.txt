@@ -1,0 +1,40 @@
+ 2D10 ROLEPLAYING GAME
+| designed by nathan j. hill | http://mysticages.com | ©2017 mystic ages publishing |
+ 2D10 is a free, fast, action-oriented roleplaying game. To play, you’ll need imagination, friends, and ten-sided dice.
+CREATING A HERO
+First, brainstorm a concept for your hero that fits the setting. Who is she? What is his story? What makes her special?
+Second, distribute 10 points among your hero’s 3 attributes. Attributes are three broad descriptors that define a hero’s overall physical, mental, and social capacity. Each begins at 0, cannot have a negative value, and cannot exceed a maximum of 5 during character creation.
+Prowess represents your hero’s physical strength, athleticism, and agility.
+Acuteness represents your hero’s mental capacity, education, and cleverness.
+Magnetism represents your hero’s leadership, attractiveness, and gift for gab.
+Third, choose an occupation, a representation of the hero’s training, education, and experience. Examples include soldier, private investigator, starship pilot, wizard, petty thief, psychologist, librarian, and hunter. Your hero’s occupation should match the setting and be something reasonable and narrowly defined. For example, “the greatest sorcerer in the world” is not a suitable occupation. If unsure, work with your GM.
+Fourth, choose a single feat. A feat is an offensive, defensive, magical, or superhuman act or gift. Examples include “mighty blow”, “natural born mechanic”, “master of disguise”, “golden tongued orator”, “stone skin”, “blinding speed”, “mind fortress”, and “fire breather”. Be sure the feat matches the setting and the feats of other heroes. If in doubt, consult your GM.
+Fifth, choose your hook. In a few words, describe a flaw, fear, or passion that fuels your hero. Examples include “never leave anyone behind”, “find my parents”, “hates to be called chicken”, “settling the score”, “overthrow the king”, “help the weak”, “defend my honor”, and “on the run”.
+REGINALD: Reginald is a stubborn farmer’s son, hunting down the orc band that took his mother and ravaged his farm. Prowess: 5, Acuteness: 3, Magnetism: 2. Occupation: Hunter. Feat: “arrow to the skull”. Hook: “Orcs are scum.”
+ACTIONS
+Your hero will encounter grave evil, battle those who aim to do her harm, solve mind- bending puzzles, win over reluctant allies, and perform tasks of daring physical and mental fortitude. These are called actions. Follow the steps below to resolve such daring actions.
+First, describe your hero’s action. The more creativity you put into the it, the more exciting and engaging the story.
+Second, select the attribute that closest matches the action.
+Third, roll 2D10. Remember to count a “0” as a zero, giving you a range anywhere from 0
+to 18. Add both dice together then add your selected attribute’s value.
+Fourth, compare your hero’s result to the Difficulty Rating for the action. For most actions that do not involve an enemy foe, the DR is 15. A GM can raise and lower the DR based on the complexity of the action. If the action involves an opponent, compare your result to your enemy’s counter action. For example, an attack by a hero might be countered by a defensive maneuver from his opponent.
+Fifth, if your result is higher than the DR or your opponent’s result, your action is victorious. If it is lower, than your action has failed. If it is a tie, your hero’s action succeeds but barely. The GM and players can narrate the outcome of an action.
+Reginald grabs the orc chieftain by the throat and dangles him off the cliff. He rolls 2d10, gets a total of 11, and adds 5 from his Prowess. His result is 14, 1 above the DR of 15, meaning his action is a success. The chieftain pleads for his life.
+OCCUPATIONS
+If your hero’s action involves her occupation, add your selected attribute’s value again. For example, if you hero was using his Magnetism of 5 in an action with his occupation of “Diplomat”, you would add an additional 5 to your roll. Opponents and villains may also make use of occupations, even in counter actions.
+FEATS
+If your hero’s action makes use of his feat, roll an extra D10. Add the two highest dice results for your action. For example, if Reginald ambushed an orc party, using his feat, “arrow to the skull”, to take down the lead warrior, he would roll 3D10. If his dice resulted in 4, 7, and 3, Reginald would add the 4 and 7 together, discarding the 3.
+SPECIAL ITEMS
+Typical equipment, weapons, and armor are useful to heroes but have no special use in play. Magical, sophisticated, or expert-crafted items do. If your hero obtains one, it serves as an additional feat but only applicable to one particular attribute. When used for its intended purpose as part of an action, roll an additional D10. Once again, no matter how many dice you might roll, keep the two highest results for your action. Items should list the particular attribute in parentheses, like “shield of courage (Prowess)”, “alien repair tool (Acuteness)”, or “fedora of the archaeologist (Magnetism)”.
+CONTESTS
+Tense battles, persuasive stories, or psychic duels are examples of contests when heroes and enemies take turns hitting, debating, or outwitting each other. When a contest occurs, each hero and enemy gets one turn to act. Depending on the type of contest, the hero or opponent with the highest applicable attribute goes first until all have
+taken an action. If the contest is not revolved, start another turn. Counter actions do not count as a turn.
+Hand-to-hand combat might use Prowess. Wizard duels might use Acuteness. Debates might use Magnetism.
+GIVING AND TAKING DAMAGE
+If your hero succeeds in harming his opponent, the amount of damage dealt is equal to the difference between your hero’s result and the difficulty rating. For example, if your hero had a result of 18 and the DR was 15, the attack would deal 3 damage. This difference can also be used to define other effects - how many turns an opponent is unconscious, how many guards are distracted by an illusion, or how long it takes to heal.
+All heroes can take damage equal to their Prowess before being Wounded. While wounded, a hero cannot make use of any feats. If a wounded hero takes an additional amount of damage equal to his Prowess, he becomes unconscious and must eventually be revived. Heroes get to choose when and where they die, so if such an epic event fits the story, the player gets to joyfully describe their hero going out in a blaze of glory.
+HOOKS
+In epic, inspiring stories, heroes are constantly “hooked” into adventure. For a GM, hooks are a great tool to help launch a story with instant drama and action. For example, a GM could open an adventure for a hero like Reginald with the discovery of orc tracks at the edge of a destroyed farm, more than enough to plunge the revenge-minded hero on a new quest. For players, hooks shape their hero’s destiny, legend, and arc. Will they seek to overcome, fulfill, or embrace it? Once per game, a hero, usually in a desperate situation, can use his hook to re-roll an action. The action must connect with his hook in a significant way. Re-roll all dice, even if they are from feats or special items.
+Reginald curses as his attempt to find the tracks of the orc band in the blinding rain meet with failure. Sinking to his knees, he is ready to give up but feels a rush of anger well up in him. He clambers back to his feet. His player decides to invoke his hero’s hook and roll again.
+GROWING AS A HERO
+In between sessions, heroes may grow by learning new occupations or gaining feats. Learning a new occupation requires training with a teacher, professional, or mentor for an extended period of time. This should happen only when it makes sense to the ongoing story of your adventures. Feats are gained after heroic actions or events that save lives or greatly alter the setting. In both cases, players and the GM should suggest moments in the story when it makes sense for either to happen, reflecting a hero’s progress toward greatness.
